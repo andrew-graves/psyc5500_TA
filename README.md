@@ -1,6 +1,8 @@
 # PSYC 5500: Electroencephalography
 
-### This repository contains Python code translated from MATLAB incorporating select chapters of Mike Cohen's "Analyzing Neural Time Series Data". 
+### This repository contains Python code I translated from MATLAB incorporating select chapters of Mike Cohen's "Analyzing Neural Time Series Data" 
+
+#### University of Virginia, Spring 2020
 
 - The translated code is contained within the notebooks folder, along with the associated sample EEG data.
 
